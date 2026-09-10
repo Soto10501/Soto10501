@@ -21,6 +21,6 @@ I'm an indie game developer and content creator. All coding projects are built f
 <br />
 
 <!-- شارات الإحصائيات (Shields.io Badges) -->
-[![YouTube Subscribe](https://img.shields.io/badge/SUBSCRIBE-396K-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@soto01595)
+[![YouTube Subscribe](https://img.shields.io/badge/SUBSCRIBE-4K-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@soto01595)
 [![Follow](https://img.shields.io/badge/FOLLOW-8.2K-blue?style=for-the-badge&logo=github)](https://github.com/Soto10501)
-[![TikTok](https://img.shields.io/badge/TIKTOK-100K-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@soto90909)
+[![TikTok](https://img.shields.io/badge/TIKTOK-2K-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@soto90909)
