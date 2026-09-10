@@ -1,15 +1,8 @@
 <div align="left">
-  <sub>🎮Soto / README.md</sub>
-</div>
-
-<br />
-
-<!-- العنوان الرئيسي بالمربع الأبيض -->
-<div align="left">
   <table>
     <tr>
       <td style="border: 2px solid #ffffff; padding: 10px 20px; font-size: 24px; font-weight: bold;">
-        🏄‍♂️ Forrest Knight
+        🎮Soto
       </td>
     </tr>
   </table>
@@ -18,9 +11,8 @@
 <br />
 
 <!-- الشارة/التاغ -->
-`Digital Craftsman (Developer/Filmmaker/Creator)`
+`Digital Craftsman (Developer/Creator)`
 
-<br />
 <br />
 
 <!-- النص التعريفي -->
