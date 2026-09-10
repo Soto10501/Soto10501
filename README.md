@@ -1,11 +1,5 @@
 <div align="left">
-  <table>
-    <tr>
-      <td style="border: 4px solid #43a047; padding: 12px 24px; font-size: 28px; font-weight: bold; background-color: #0d1117; color: #ffffff;">
-        🎮 Soto
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Soto--ffffff?style=for-the-badge&color=0d1117&labelColor=0d1117&borderColor=43a047" alt="Soto" height="55" />
 </div>
 
 <br />
