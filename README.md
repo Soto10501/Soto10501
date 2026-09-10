@@ -23,4 +23,4 @@ I'm an indie game developer and content creator. All coding projects are built f
 <!-- شارات الإحصائيات (Shields.io Badges) -->
 [![YouTube Subscribe](https://img.shields.io/badge/SUBSCRIBE-4K-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@soto01595)
 [![TikTok](https://img.shields.io/badge/TIKTOK-2K-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@soto90909)
-[![Reddit](https://img.shields.io/badge/REDDIT-10K-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Repulsive_Diet_4592/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT%20SITE-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL.com)
